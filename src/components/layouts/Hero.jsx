@@ -6,7 +6,7 @@ import { IoPlay } from 'react-icons/io5'
 function Hero() {
   return (
     <section className='bg-hero bg-cover bg-right'>
-      <div className='bg-[rgba(33,22,14,0.6)] pb-[337px] pt-[105px] md:py-[413px]'>
+      <div className='bg-[rgba(33,22,14,0.6)] pb-[337px] pt-[185px] md:py-[413px]'>
        <Container>
         {/* text content */}
         <div className="flex flex-col items-center justify-center gap-y-4">
